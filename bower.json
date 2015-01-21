@@ -1,0 +1,7 @@
+{
+  "name": "buddycopspreso",
+  "version": "0.0.1",
+  "dependencies": {
+    "posh-starter": "https://github.com/theposhery/posh-starter.git#v0.1"
+  }
+}
