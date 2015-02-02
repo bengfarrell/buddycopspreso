@@ -1,0 +1,99 @@
+{
+  "slides": [
+    {
+      "background": "lethalweapon_conflict.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "A Buddy Cop Film is a film..."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "background": "lethalweapon_conflict.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "...with plots involving two people of very different and conflicting personalities"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "background": "lethalweapon_solvecrime.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "...who are forced to work together to solve a crime and/or defeat criminals"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "background": "lethalweapon_learning.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "...sometimes learning from each other in the process"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "background": "lethalweapon_cultures.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "Frequently, although not always, the two heroes are of different ethnicity or cultures"
+        }
+      ],
+      "number": 5
+    },
+    {
+      "background": "lethalweapon_smiley.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "However, regardless of ethnicity, the central difference is normally that one is &quot;wilder&quot; than the other"
+        }
+      ],
+      "number": 6
+    },
+    {
+      "background": "rogerebert.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "header",
+          "html": "Wunza Movie"
+        },
+        {
+          "region": "footer",
+          "html": "In his review of Rush Hour, Roger Ebert coined the term &quot;Wunza Movie&quot; to describe this subgenre, a pun on the phrase &quot;One's a...&quot;"
+        }
+      ],
+      "number": 7
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "In Conclusion...."
+        },
+        {
+          "region": "footer",
+          "html": "We have two buddy cops"
+        }
+      ],
+      "background": "twocops.png",
+      "number": 62
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "One's a new take on web development, but doesn't reach outside the normality of the browser"
+        }
+      ],
+      "background": "copsilhouette.png",
+      "number": 63
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Atom-Shell"
+        },
+        {
+          "region": "footer",
+          "html": "One's a wrapper with the obsession of taking HTML5 to the weird world of cross-platform desktop applications"
+        }
+      ],
+      "background": "copsilhouette.png",
+      "number": 64
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "I Want to Believe"
+        },
+        {
+          "region": "footer",
+          "html": "Putting it another way..."
+        }
+      ],
+      "background": "xfiles.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 65
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Thank you"
+        },
+        {
+          "region": "center",
+          "html": "<ul><li>benfarrell.com</li><li>@bfarrellforever</li><li>http://github.com/bengfarrell</li></ul>"
+        }
+      ],
+      "number": 66
+    }
+  ]
+}

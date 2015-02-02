@@ -1,0 +1,81 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "There's a common thread..."
+        },
+        {
+          "region": "footer",
+          "html": "Buddy cops usually hate each other in the beginning, and grow a special trust over time"
+        }
+      ],
+      "background": "police-academy.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 15
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Remember..."
+        },
+        {
+          "region": "footer",
+          "html": "One or both have wildly different and unconventional ways of doing things"
+        }
+      ],
+      "background": "copout.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 16
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "This can especially true for HTML5 created desktop applications<br />Or embracing a new browser specification"
+        }
+      ],
+      "number": 17
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "One's a new way of web development based components"
+        }
+      ],
+      "background": "polymer-splash.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 19
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Atom-Shell"
+        },
+        {
+          "region": "footer",
+          "html": "One's a Node.js/Chromium based Desktop Application Wrapper"
+        }
+      ],
+      "background": "atom-splash.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 20
+    }
+  ]
+}

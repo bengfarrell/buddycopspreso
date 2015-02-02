@@ -1,0 +1,167 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "Atom-Shell & Polymer <br />Why are they good buddy cops?"
+        }
+      ],
+      "number": 48
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "Atom-Shell enables desktop application power with HTML5 tools and techniques"
+        }
+      ],
+      "number": 49
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Atom-Shell"
+        },
+        {
+          "region": "left",
+          "html": "<ul><li>The browser security sandbox is off for Node.js</li><li>The state of open source is stronger for the web platform than any other</li><li>The web has tons of UI choice</li></ul>"
+        }
+      ],
+      "number": 50
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "Extendable components are more in line with how non-web apps are developed"
+        }
+      ],
+      "background": "uicomponents.png",
+      "number": 53
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "center",
+          "html": "Web apps are traditionally small and broken up by pages"
+        }
+      ],
+      "number": 54
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "With desktop applications, you expect more cohesiveness on a large scale"
+        }
+      ],
+      "background": "photoshop.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 55
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "With Polymer, components and component groups are easily testable by themselves"
+        }
+      ],
+      "background": "indycomponents.png",
+      "number": 56
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "How our cops work on the beat"
+        }
+      ],
+      "background": "hotfuzz.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 57
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "yo polymer:seed"
+        },
+        {
+          "region": "footer",
+          "html": "Auto-Documentation &amp; Test Harness"
+        }
+      ],
+      "background": "documentation.png",
+      "number": 58
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "We can choose to launch either the component or the application<br/>(or some combination)"
+        }
+      ],
+      "number": 59
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Bower &amp; .gitignore"
+        },
+        {
+          "region": "footer",
+          "html": "components can be organized via a mix of dependency management and source control"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "gitignore.png"
+        }
+      ],
+      "number": 60
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Agnostic Web Components"
+        },
+        {
+          "region": "footer",
+          "html": "We can test our environmental capabilities and fall back if necessary"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "tonodeornottonode.png"
+        }
+      ],
+      "number": 61
+    }
+  ]
+}

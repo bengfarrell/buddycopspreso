@@ -1,0 +1,147 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "And now Atom-Shell..."
+        }
+      ],
+      "background": "atom-splash.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 27
+    },
+    {
+      "images": [
+        {
+          "region": "center",
+          "image": "atomequals.png"
+        }
+      ],
+      "number": 28
+    },
+    {
+      "background": "atom-full.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "Github's Atom Editor"
+        }
+      ],
+      "number": 29
+    },
+    {
+      "background": "frameworks.png",
+      "text": [
+        {
+          "region": "header",
+          "html": "As always, load up Chromium with your preferred stack..."
+        }
+      ],
+      "number": 31
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "The difference?"
+        },
+        {
+          "region": "footer",
+          "html": "you're not locked into one (or many) browsers"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "browsers.png"
+        }
+      ],
+      "number": 32
+    },
+    {
+      "background": "cli.png",
+      "text": [
+        {
+          "region": "footer",
+          "html": "Node.js and Atom-Shell Dev is pretty similar"
+        }
+      ],
+      "number": 34
+    },
+    {
+      "background": "gulpdownloadtask.png",
+      "text": [
+        {
+          "region": "footer",
+          "html": "npm install gulp-download-atom-shell"
+        }
+      ],
+      "number": 37
+    },
+    {
+      "background": "packagejson.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "Our package.json file holds the entry point"
+        }
+      ],
+      "number": 40
+    },
+    {
+      "background": "mainjs.png",
+      "number": 42
+    },
+    {
+      "background": "htmlfile.png",
+      "number": 43,
+      "text": [
+        {
+          "region": "header",
+          "html": "From there, its just plain HTML/JS/CSS"
+        },
+        {
+          "region": "footer",
+          "html": "or it could be a sparkly new tech like Polymer"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Node.js..."
+        },
+        {
+          "region": "footer",
+          "html": "it wants into your HTML5"
+        }
+      ],
+      "background": "fsread.png",
+      "number": 45
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Beyond Simple File IO"
+        },
+        {
+          "region": "footer",
+          "html": "Did you forget that Node.js is great for serving web pages amongst other things?"
+        }
+      ],
+      "background": "nodeuses.png",
+      "number": 47
+    }
+  ]
+}

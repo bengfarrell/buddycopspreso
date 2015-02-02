@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer &amp; Atom-Shell"
+        },
+        {
+          "region": "footer",
+          "html": "are HTML5 Buddy Cops"
+        }
+      ],
+      "background": "buddy-cops-intro.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 1
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Me"
+        },
+        {
+          "region": "footer",
+          "html": "Twitter: @bfarrellforever <br /> Web: benfarrell.com <br /> Works for GE Design"
+        }
+      ],
+      "background": "detectiveben.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 1
+    }
+  ]
+}

@@ -3,5 +3,9 @@
   "version": "0.0.1",
   "dependencies": {
     "posh-starter": "https://github.com/theposhery/posh-starter.git#v0.1"
+  },
+  "resolutions": {
+    "polymer": "^0.5.1",
+    "core-component-page": "^0.5"
   }
 }

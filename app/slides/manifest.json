@@ -1,0 +1,14 @@
+{
+    "baseImagePath": "./slides/images",
+    "baseHTMLTemplatePath": "./app/slides/htmlincludes",
+    "content": [
+        { "name": "intro", "file": "decks/1_intro.json" },
+        { "name": "buddycops", "file": "decks/2_buddycop.json" },
+        { "name": "filmexamples", "file": "decks/3_filmexamples.json" },
+        { "name": "introducing", "file": "decks/4_introducing.json" },
+        { "name": "polymer", "file": "decks/5_polymer.json" },
+        { "name": "atom features", "file": "decks/6_atomshell.json" },
+        { "name": "working together", "file": "decks/7_together.json" },
+        { "name": "outtro", "file": "decks/8_outtro.json" }
+    ]
+}

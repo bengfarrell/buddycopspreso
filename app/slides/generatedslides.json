@@ -1,0 +1,768 @@
+{
+  "currentSlide": 1,
+  "baseImagePath": "./slides/images",
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer &amp; Atom-Shell"
+        },
+        {
+          "region": "footer",
+          "html": "are HTML5 Buddy Cops"
+        }
+      ],
+      "background": "buddy-cops-intro.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 1
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Me"
+        },
+        {
+          "region": "footer",
+          "html": "Twitter: @bfarrellforever <br /> Web: benfarrell.com <br /> Works for GE Design"
+        }
+      ],
+      "background": "detectiveben.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 1
+    },
+    {
+      "background": "lethalweapon_conflict.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "A Buddy Cop Film is a film..."
+        }
+      ],
+      "number": 1
+    },
+    {
+      "background": "lethalweapon_conflict.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "...with plots involving two people of very different and conflicting personalities"
+        }
+      ],
+      "number": 2
+    },
+    {
+      "background": "lethalweapon_solvecrime.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "...who are forced to work together to solve a crime and/or defeat criminals"
+        }
+      ],
+      "number": 3
+    },
+    {
+      "background": "lethalweapon_learning.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "...sometimes learning from each other in the process"
+        }
+      ],
+      "number": 4
+    },
+    {
+      "background": "lethalweapon_cultures.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "Frequently, although not always, the two heroes are of different ethnicity or cultures"
+        }
+      ],
+      "number": 5
+    },
+    {
+      "background": "lethalweapon_smiley.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "However, regardless of ethnicity, the central difference is normally that one is &quot;wilder&quot; than the other"
+        }
+      ],
+      "number": 6
+    },
+    {
+      "background": "rogerebert.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "header",
+          "html": "Wunza Movie"
+        },
+        {
+          "region": "footer",
+          "html": "In his review of Rush Hour, Roger Ebert coined the term &quot;Wunza Movie&quot; to describe this subgenre, a pun on the phrase &quot;One's a...&quot;"
+        }
+      ],
+      "number": 7
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "So let's play a little game..."
+        }
+      ],
+      "number": 8
+    },
+    {
+      "background": "lethalweapon.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /> One's an unconventional cop with a wild side"
+        }
+      ],
+      "number": 9
+    },
+    {
+      "background": "lethalweapon_html5version.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /> One's an unconventional cop with a wild side"
+        }
+      ],
+      "number": 10
+    },
+    {
+      "background": "rushhour.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. One's a higly regarded asian import but a little hard for Americans to understand<br /> One's an unconventional loudmouth with a crazy side "
+        }
+      ],
+      "number": 11
+    },
+    {
+      "background": "rushhour_html5buddies.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. One's a higly regarded asian import but a little hard for Americans to understand<br /> One's an unconventional loudmouth with a crazy side "
+        }
+      ],
+      "number": 11
+    },
+    {
+      "background": "turnerandhooch.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": " The Oddest Couple Ever Unleashed! One's a compulsively neat detective <br /> One's a dog! "
+        }
+      ],
+      "number": 12
+    },
+    {
+      "background": "turnerandhooch_html5.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": " The Oddest Couple Ever Unleashed! One's a compulsively neat detective <br /> One's a dog! "
+        }
+      ],
+      "number": 13
+    },
+    {
+      "background": "theodorerex.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "In an alternate futuristic society, a tough female cyborg police detective is paired with a talking dinosaur to find the killer of dinosaurs"
+        }
+      ],
+      "number": 14
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "There's a common thread..."
+        },
+        {
+          "region": "footer",
+          "html": "Buddy cops usually hate each other in the beginning, and grow a special trust over time"
+        }
+      ],
+      "background": "police-academy.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 15
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Remember..."
+        },
+        {
+          "region": "footer",
+          "html": "One or both have wildly different and unconventional ways of doing things"
+        }
+      ],
+      "background": "copout.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 16
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "This can especially true for HTML5 created desktop applications<br />Or embracing a new browser specification"
+        }
+      ],
+      "number": 17
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "One's a new way of web development based components"
+        }
+      ],
+      "background": "polymer-splash.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 19
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Atom-Shell"
+        },
+        {
+          "region": "footer",
+          "html": "One's a Node.js/Chromium based Desktop Application Wrapper"
+        }
+      ],
+      "background": "atom-splash.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 20
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Why is Polymer different?"
+        },
+        {
+          "region": "footer",
+          "html": "Web Components for one!"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "webcomponents.png"
+        }
+      ],
+      "number": 21
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "Your HTML, CSS, and JS are protected"
+        }
+      ],
+      "background": "polymer-protected-shadowdom.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 22
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "You define an API into your protected Shadow DOM"
+        }
+      ],
+      "background": "posh-slide-api.jpg",
+      "backgroundProperties": {
+        "bounds": "poster"
+      },
+      "number": 23
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "Import and extend other components by importing HTML"
+        }
+      ],
+      "background": "polymer-imports.jpg",
+      "number": 24
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "Binding to variables in local scope is cool, too"
+        }
+      ],
+      "background": "polymer-imports.jpg",
+      "number": 25
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "Syntactic sugar to make things easy"
+        }
+      ],
+      "background": "polymer-dollar-select.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 26
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "And now Atom-Shell..."
+        }
+      ],
+      "background": "atom-splash.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 27
+    },
+    {
+      "images": [
+        {
+          "region": "center",
+          "image": "atomequals.png"
+        }
+      ],
+      "number": 28
+    },
+    {
+      "background": "atom-full.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "Github's Atom Editor"
+        }
+      ],
+      "number": 29
+    },
+    {
+      "background": "frameworks.png",
+      "text": [
+        {
+          "region": "header",
+          "html": "As always, load up Chromium with your preferred stack..."
+        }
+      ],
+      "number": 31
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "The difference?"
+        },
+        {
+          "region": "footer",
+          "html": "you're not locked into one (or many) browsers"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "browsers.png"
+        }
+      ],
+      "number": 32
+    },
+    {
+      "background": "cli.png",
+      "text": [
+        {
+          "region": "footer",
+          "html": "Node.js and Atom-Shell Dev is pretty similar"
+        }
+      ],
+      "number": 34
+    },
+    {
+      "background": "gulpdownloadtask.png",
+      "text": [
+        {
+          "region": "footer",
+          "html": "npm install gulp-download-atom-shell"
+        }
+      ],
+      "number": 37
+    },
+    {
+      "background": "packagejson.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "Our package.json file holds the entry point"
+        }
+      ],
+      "number": 40
+    },
+    {
+      "background": "mainjs.png",
+      "number": 42
+    },
+    {
+      "background": "htmlfile.png",
+      "number": 43,
+      "text": [
+        {
+          "region": "header",
+          "html": "From there, its just plain HTML/JS/CSS"
+        },
+        {
+          "region": "footer",
+          "html": "or it could be a sparkly new tech like Polymer"
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Node.js..."
+        },
+        {
+          "region": "footer",
+          "html": "it wants into your HTML5"
+        }
+      ],
+      "background": "fsread.png",
+      "number": 45
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Beyond Simple File IO"
+        },
+        {
+          "region": "footer",
+          "html": "Did you forget that Node.js is great for serving web pages amongst other things?"
+        }
+      ],
+      "background": "nodeuses.png",
+      "number": 47
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "Atom-Shell & Polymer <br />Why are they good buddy cops?"
+        }
+      ],
+      "number": 48
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "Atom-Shell enables desktop application power with HTML5 tools and techniques"
+        }
+      ],
+      "number": 49
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Atom-Shell"
+        },
+        {
+          "region": "left",
+          "html": "<ul><li>The browser security sandbox is off for Node.js</li><li>The state of open source is stronger for the web platform than any other</li><li>The web has tons of UI choice</li></ul>"
+        }
+      ],
+      "number": 50
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "Extendable components are more in line with how non-web apps are developed"
+        }
+      ],
+      "background": "uicomponents.png",
+      "number": 53
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "center",
+          "html": "Web apps are traditionally small and broken up by pages"
+        }
+      ],
+      "number": 54
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "With desktop applications, you expect more cohesiveness on a large scale"
+        }
+      ],
+      "background": "photoshop.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 55
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "With Polymer, components and component groups are easily testable by themselves"
+        }
+      ],
+      "background": "indycomponents.png",
+      "number": 56
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "How our cops work on the beat"
+        }
+      ],
+      "background": "hotfuzz.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 57
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "yo polymer:seed"
+        },
+        {
+          "region": "footer",
+          "html": "Auto-Documentation &amp; Test Harness"
+        }
+      ],
+      "background": "documentation.png",
+      "number": 58
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "We can choose to launch either the component or the application<br/>(or some combination)"
+        }
+      ],
+      "number": 59
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Bower &amp; .gitignore"
+        },
+        {
+          "region": "footer",
+          "html": "components can be organized via a mix of dependency management and source control"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "gitignore.png"
+        }
+      ],
+      "number": 60
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Agnostic Web Components"
+        },
+        {
+          "region": "footer",
+          "html": "We can test our environmental capabilities and fall back if necessary"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "tonodeornottonode.png"
+        }
+      ],
+      "number": 61
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "In Conclusion...."
+        },
+        {
+          "region": "footer",
+          "html": "We have two buddy cops"
+        }
+      ],
+      "background": "twocops.png",
+      "number": 62
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Polymer"
+        },
+        {
+          "region": "footer",
+          "html": "One's a new take on web development, but doesn't reach outside the normality of the browser"
+        }
+      ],
+      "background": "copsilhouette.png",
+      "number": 63
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Atom-Shell"
+        },
+        {
+          "region": "footer",
+          "html": "One's a wrapper with the obsession of taking HTML5 to the weird world of cross-platform desktop applications"
+        }
+      ],
+      "background": "copsilhouette.png",
+      "number": 64
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "I Want to Believe"
+        },
+        {
+          "region": "footer",
+          "html": "Putting it another way..."
+        }
+      ],
+      "background": "xfiles.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 65
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Thank you"
+        },
+        {
+          "region": "center",
+          "html": "<ul><li>benfarrell.com</li><li>@bfarrellforever</li><li>http://github.com/bengfarrell</li></ul>"
+        }
+      ],
+      "number": 66
+    }
+  ]
+}

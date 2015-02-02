@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "posh": "git+https://github.com/bengfarrell/posh.git#master"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
   }
 }

@@ -1,0 +1,106 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "So let's play a little game..."
+        }
+      ],
+      "number": 8
+    },
+    {
+      "background": "lethalweapon.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /> One's an unconventional cop with a wild side"
+        }
+      ],
+      "number": 9
+    },
+    {
+      "background": "lethalweapon_html5version.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /> One's an unconventional cop with a wild side"
+        }
+      ],
+      "number": 10
+    },
+    {
+      "background": "rushhour.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. One's a higly regarded asian import but a little hard for Americans to understand<br /> One's an unconventional loudmouth with a crazy side "
+        }
+      ],
+      "number": 11
+    },
+
+    {
+      "background": "rushhour_html5buddies.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. One's a higly regarded asian import but a little hard for Americans to understand<br /> One's an unconventional loudmouth with a crazy side "
+        }
+      ],
+      "number": 11
+    },
+
+    {
+      "background": "turnerandhooch.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": " The Oddest Couple Ever Unleashed! One's a compulsively neat detective <br /> One's a dog! "
+        }
+      ],
+      "number": 12
+    },
+    {
+      "background": "turnerandhooch_html5.png",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": " The Oddest Couple Ever Unleashed! One's a compulsively neat detective <br /> One's a dog! "
+        }
+      ],
+      "number": 13
+    },
+    {
+      "background": "theodorerex.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "text": [
+        {
+          "region": "footer",
+          "html": "In an alternate futuristic society, a tough female cyborg police detective is paired with a talking dinosaur to find the killer of dinosaurs"
+        }
+      ],
+      "number": 14
+    }
+  ]
+}

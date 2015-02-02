@@ -1,0 +1,82 @@
+{
+  "slides": [
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Why is Polymer different?"
+        },
+        {
+          "region": "footer",
+          "html": "Web Components for one!"
+        }
+      ],
+      "images": [
+        {
+          "region": "center",
+          "image": "webcomponents.png"
+        }
+      ],
+      "number": 21
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "Your HTML, CSS, and JS are protected"
+        }
+      ],
+      "background": "polymer-protected-shadowdom.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 22
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "You define an API into your protected Shadow DOM"
+        }
+      ],
+      "background": "posh-slide-api.jpg",
+      "backgroundProperties": {
+        "bounds": "poster"
+      },
+      "number": 23
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "Import and extend other components by importing HTML"
+        }
+      ],
+      "background": "polymer-imports.jpg",
+      "number": 24
+    },
+    {
+      "text": [
+        {
+          "region": "center",
+          "html": "Binding to variables in local scope is cool, too"
+        }
+      ],
+      "background": "polymer-imports.jpg",
+      "number": 25
+    },
+    {
+      "text": [
+        {
+          "region": "footer",
+          "html": "Syntactic sugar to make things easy"
+        }
+      ],
+      "background": "polymer-dollar-select.jpg",
+      "backgroundProperties": {
+        "bounds": "cover"
+      },
+      "number": 26
+    }
+  ]
+}
