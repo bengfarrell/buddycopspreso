@@ -1,5 +1,5 @@
 {
-  "currentSlide": 0,
+  "currentSlide": 20,
   "baseImagePath": "./slides/images",
   "slides": [
     {
@@ -148,7 +148,7 @@
       "text": [
         {
           "region": "footer",
-          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /> One's an unconventional cop with a wild side"
+          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /><br /> One's an unconventional cop with a wild side"
         }
       ],
       "number": 9
@@ -161,33 +161,27 @@
       "text": [
         {
           "region": "footer",
-          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /> One's an unconventional cop with a wild side"
+          "html": "One's a by the books cop who's always a week away from retirement but something always comes up <br /><br />  One's an unconventional cop with a wild side"
         }
       ],
       "number": 10
     },
     {
       "background": "rushhour.jpg",
-      "backgroundProperties": {
-        "bounds": "cover"
-      },
       "text": [
         {
           "region": "footer",
-          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. One's a higly regarded asian import but a little hard for Americans to understand<br /> One's an unconventional loudmouth with a crazy side "
+          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. <br /><br /> One's a higly regarded asian import but a little hard for Americans to understand<br /><br /> One's an unconventional loudmouth with a crazy side "
         }
       ],
       "number": 11
     },
     {
       "background": "rushhour_html5buddies.png",
-      "backgroundProperties": {
-        "bounds": "cover"
-      },
       "text": [
         {
           "region": "footer",
-          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. One's a higly regarded asian import but a little hard for Americans to understand<br /> One's an unconventional loudmouth with a crazy side "
+          "html": "The Fastest Hands In The East Meet The Biggest Mouth In The West. <br /><br /> One's a higly regarded asian import but a little hard for Americans to understand<br /><br /> One's an unconventional loudmouth with a crazy side "
         }
       ],
       "number": 11
@@ -200,7 +194,7 @@
       "text": [
         {
           "region": "footer",
-          "html": " The Oddest Couple Ever Unleashed! One's a compulsively neat detective <br /> One's a dog! "
+          "html": " The Oddest Couple Ever Unleashed! <br /><br /> One's a compulsively neat detective <br /><br /> One's a dog! "
         }
       ],
       "number": 12
@@ -213,7 +207,7 @@
       "text": [
         {
           "region": "footer",
-          "html": " The Oddest Couple Ever Unleashed! One's a compulsively neat detective <br /> One's a dog! "
+          "html": " The Oddest Couple Ever Unleashed! <br /><br /> One's a compulsively neat detective <br /><br /> One's a dog! "
         }
       ],
       "number": 13

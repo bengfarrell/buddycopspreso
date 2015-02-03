@@ -51,7 +51,7 @@
         },
         {
           "region": "footer",
-          "html": "One's a new way of web development based components"
+          "html": "One's a new way of web development based on components"
         }
       ],
       "background": "polymer-splash.png",

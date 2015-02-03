@@ -1,345 +1,345 @@
 {
-  "lastSlide": 1,
+  "lastSlide": 21,
   "slides": [
     {
       "number": 1,
-      "startTime": 1422944192279,
-      "endTime": 1422944192279,
-      "duration": 416.528
+      "startTime": 1422948104003,
+      "endTime": 1422948105441,
+      "duration": 1.438
     },
     {
       "number": 2,
-      "startTime": 1422943605286,
-      "endTime": 1422941249299,
-      "duration": 0.397
+      "startTime": 1422948105442,
+      "endTime": 1422948105633,
+      "duration": 0.191
     },
     {
       "number": 3,
-      "startTime": 1422941248345,
-      "endTime": 1422941248902,
-      "duration": 0.557
-    },
-    {
-      "number": 4,
-      "startTime": 1422941248187,
-      "endTime": 1422941248345,
+      "startTime": 1422948105633,
+      "endTime": 1422948105791,
       "duration": 0.158
     },
     {
+      "number": 4,
+      "startTime": 1422948105791,
+      "endTime": 1422948105917,
+      "duration": 0.126
+    },
+    {
       "number": 5,
-      "startTime": 1422941247815,
-      "endTime": 1422941248187,
-      "duration": 0.372
+      "startTime": 1422948105917,
+      "endTime": 1422948106026,
+      "duration": 0.109
     },
     {
       "number": 6,
-      "startTime": 1422941245768,
-      "endTime": 1422941247815,
-      "duration": 2.047
+      "startTime": 1422948106026,
+      "endTime": 1422948106149,
+      "duration": 0.123
     },
     {
       "number": 7,
-      "startTime": 1422940747091,
-      "endTime": 1422940748429,
-      "duration": 1.338
+      "startTime": 1422948106149,
+      "endTime": 1422948106275,
+      "duration": 0.126
     },
     {
       "number": 8,
-      "startTime": 1422940748429,
-      "endTime": 1422940748974,
-      "duration": 0.545
+      "startTime": 1422948106275,
+      "endTime": 1422948106418,
+      "duration": 0.143
     },
     {
       "number": 9,
-      "startTime": 1422940748974,
-      "endTime": 1422940749602,
-      "duration": 0.628
+      "startTime": 1422948106418,
+      "endTime": 1422948106755,
+      "duration": 0.337
     },
     {
       "number": 10,
-      "startTime": 1422940749602,
-      "endTime": 1422940750222,
-      "duration": 0.62
+      "startTime": 1422948106755,
+      "endTime": 1422948107128,
+      "duration": 0.373
     },
     {
       "number": 11,
-      "startTime": 1422940750222,
-      "endTime": 1422940751699,
-      "duration": 1.477
+      "startTime": 1422948107128,
+      "endTime": 1422948107512,
+      "duration": 0.384
     },
     {
       "number": 12,
-      "startTime": 1422940751699,
-      "endTime": 1422940757625,
-      "duration": 5.926
+      "startTime": 1422948107512,
+      "endTime": 1422948107877,
+      "duration": 0.365
     },
     {
       "number": 13,
-      "startTime": 1422940757625,
-      "endTime": 1422940763750,
-      "duration": 6.125
+      "startTime": 1422948107877,
+      "endTime": 1422948108275,
+      "duration": 0.398
     },
     {
       "number": 14,
-      "startTime": 1422940763750,
-      "endTime": 1422940764423,
-      "duration": 0.673
+      "startTime": 1422948108275,
+      "endTime": 1422948112838,
+      "duration": 4.563
     },
     {
       "number": 15,
-      "startTime": 1422940764423,
-      "endTime": 1422940766474,
-      "duration": 2.051
+      "startTime": 1422948112838,
+      "endTime": 1422948114131,
+      "duration": 1.293
     },
     {
       "number": 16,
-      "startTime": 1422940766474,
-      "endTime": 1422940768302,
-      "duration": 1.828
+      "startTime": 1422948114131,
+      "endTime": 1422948115036,
+      "duration": 0.905
     },
     {
       "number": 17,
-      "startTime": 1422940768302,
-      "endTime": 1422940769746,
-      "duration": 1.444
+      "startTime": 1422948115036,
+      "endTime": 1422948115867,
+      "duration": 0.831
     },
     {
       "number": 18,
-      "startTime": 1422940769746,
-      "endTime": 1422940771428,
-      "duration": 1.682
+      "startTime": 1422948115867,
+      "endTime": 1422948116765,
+      "duration": 0.898
     },
     {
       "number": 19,
-      "startTime": 1422940771428,
-      "endTime": 1422940772580,
-      "duration": 1.152
+      "startTime": 1422948118291,
+      "endTime": 1422948119669,
+      "duration": 1.378
     },
     {
       "number": 20,
-      "startTime": 1422940772580,
-      "endTime": 1422940773647,
-      "duration": 1.067
+      "startTime": 1422948119669,
+      "endTime": 1422948121288,
+      "duration": 1.619
     },
     {
       "number": 21,
-      "startTime": 1422940773647,
-      "endTime": 1422940775024,
-      "duration": 1.377
+      "startTime": 1422948124075,
+      "endTime": 1422948123119,
+      "duration": 1.831
     },
     {
       "number": 22,
-      "startTime": 1422940775024,
-      "endTime": 1422940776118,
-      "duration": 1.094
+      "startTime": 1422948123119,
+      "endTime": 1422948124075,
+      "duration": 0.956
     },
     {
       "number": 23,
-      "startTime": 1422940776118,
-      "endTime": 1422940777009,
-      "duration": 0.891
+      "startTime": 1422946533498,
+      "endTime": 1422946543548,
+      "duration": 10.05
     },
     {
       "number": 24,
-      "startTime": 1422940777009,
-      "endTime": 1422940777782,
-      "duration": 0.773
+      "startTime": 1422946543548,
+      "endTime": 1422946587062,
+      "duration": 43.514
     },
     {
       "number": 25,
-      "startTime": 1422940777782,
-      "endTime": 1422940778554,
-      "duration": 0.772
+      "startTime": 1422946587062,
+      "endTime": 1422946621019,
+      "duration": 33.957
     },
     {
       "number": 26,
-      "startTime": 1422940778554,
-      "endTime": 1422940779311,
-      "duration": 0.757
+      "startTime": 1422946621019,
+      "endTime": 1422946647184,
+      "duration": 26.165
     },
     {
       "number": 27,
-      "startTime": 1422940779311,
-      "endTime": 1422940779999,
-      "duration": 0.688
+      "startTime": 1422946647184,
+      "endTime": 1422946673735,
+      "duration": 26.551
     },
     {
       "number": 28,
-      "startTime": 1422940779999,
-      "endTime": 1422940780544,
-      "duration": 0.545
+      "startTime": 1422946673735,
+      "endTime": 1422946692905,
+      "duration": 19.17
     },
     {
       "number": 29,
-      "startTime": 1422940780544,
-      "endTime": 1422940781116,
-      "duration": 0.572
+      "startTime": 1422946692905,
+      "endTime": 1422946694860,
+      "duration": 1.955
     },
     {
       "number": 30,
-      "startTime": 1422940781116,
-      "endTime": 1422940781630,
-      "duration": 0.514
+      "startTime": 1422946694860,
+      "endTime": 1422946727191,
+      "duration": 32.331
     },
     {
       "number": 31,
-      "startTime": 1422940781630,
-      "endTime": 1422940782387,
-      "duration": 0.757
+      "startTime": 1422946736268,
+      "endTime": 1422946758374,
+      "duration": 22.106
     },
     {
       "number": 32,
-      "startTime": 1422940782387,
-      "endTime": 1422940783051,
-      "duration": 0.664
+      "startTime": 1422946758374,
+      "endTime": 1422946775082,
+      "duration": 16.708
     },
     {
       "number": 33,
-      "startTime": 1422940783051,
-      "endTime": 1422940783650,
-      "duration": 0.599
+      "startTime": 1422946775082,
+      "endTime": 1422946808730,
+      "duration": 33.648
     },
     {
       "number": 34,
-      "startTime": 1422940783650,
-      "endTime": 1422940784195,
-      "duration": 0.545
+      "startTime": 1422946808730,
+      "endTime": 1422946843442,
+      "duration": 34.712
     },
     {
       "number": 35,
-      "startTime": 1422940784195,
-      "endTime": 1422940784874,
-      "duration": 0.679
+      "startTime": 1422946843442,
+      "endTime": 1422946891887,
+      "duration": 48.445
     },
     {
       "number": 36,
-      "startTime": 1422940784874,
-      "endTime": 1422940785574,
-      "duration": 0.7
+      "startTime": 1422946891887,
+      "endTime": 1422946928730,
+      "duration": 36.843
     },
     {
       "number": 37,
-      "startTime": 1422940785574,
-      "endTime": 1422940786876,
-      "duration": 1.302
+      "startTime": 1422946928730,
+      "endTime": 1422946972665,
+      "duration": 43.935
     },
     {
       "number": 38,
-      "startTime": 1422940786876,
-      "endTime": 1422940787565,
-      "duration": 0.689
+      "startTime": 1422946972665,
+      "endTime": 1422947017567,
+      "duration": 44.902
     },
     {
       "number": 39,
-      "startTime": 1422940787565,
-      "endTime": 1422940788219,
-      "duration": 0.654
+      "startTime": 1422947017567,
+      "endTime": 1422947066944,
+      "duration": 49.377
     },
     {
       "number": 40,
-      "startTime": 1422940788219,
-      "endTime": 1422940788900,
-      "duration": 0.681
+      "startTime": 1422947066944,
+      "endTime": 1422947162949,
+      "duration": 96.005
     },
     {
       "number": 41,
-      "startTime": 1422940788900,
-      "endTime": 1422940789511,
-      "duration": 0.611
+      "startTime": 1422947162949,
+      "endTime": 1422947168497,
+      "duration": 5.548
     },
     {
       "number": 42,
-      "startTime": 1422940789511,
-      "endTime": 1422940790097,
-      "duration": 0.586
+      "startTime": 1422947168497,
+      "endTime": 1422947178092,
+      "duration": 9.595
     },
     {
       "number": 43,
-      "startTime": 1422940790097,
-      "endTime": 1422940790711,
-      "duration": 0.614
+      "startTime": 1422947178092,
+      "endTime": 1422947235505,
+      "duration": 57.413
     },
     {
       "number": 44,
-      "startTime": 1422940790711,
-      "endTime": 1422940791254,
-      "duration": 0.543
+      "startTime": 1422947235505,
+      "endTime": 1422947315773,
+      "duration": 80.268
     },
     {
       "number": 45,
-      "startTime": 1422940791254,
-      "endTime": 1422940791732,
-      "duration": 0.478
+      "startTime": 1422947315773,
+      "endTime": 1422947339172,
+      "duration": 23.399
     },
     {
       "number": 46,
-      "startTime": 1422940791732,
-      "endTime": 1422940792080,
-      "duration": 0.348
+      "startTime": 1422947339172,
+      "endTime": 1422947372853,
+      "duration": 33.681
     },
     {
       "number": 47,
-      "startTime": 1422940792080,
-      "endTime": 1422940792507,
-      "duration": 0.427
+      "startTime": 1422947392363,
+      "endTime": 1422947395816,
+      "duration": 3.453
     },
     {
       "number": 48,
-      "startTime": 1422940792507,
-      "endTime": 1422940088001,
-      "duration": 0.031
+      "startTime": 1422947395816,
+      "endTime": 1422947406653,
+      "duration": 10.837
     },
     {
       "number": 49,
-      "startTime": 1422940088001,
-      "endTime": 1422940088031,
-      "duration": 0.03
+      "startTime": 1422947406653,
+      "endTime": 1422947442494,
+      "duration": 35.841
     },
     {
       "number": 50,
-      "startTime": 1422940088031,
-      "endTime": 1422940088062,
-      "duration": 0.031
+      "startTime": 1422947442494,
+      "endTime": 1422947471225,
+      "duration": 28.731
     },
     {
       "number": 51,
-      "startTime": 1422940088062,
-      "endTime": 1422940088092,
-      "duration": 0.03
+      "startTime": 1422947471225,
+      "endTime": 1422947506696,
+      "duration": 35.471
     },
     {
       "number": 52,
-      "startTime": 1422940088092,
-      "endTime": 1422940088123,
-      "duration": 0.031
+      "startTime": 1422947506696,
+      "endTime": 1422947553493,
+      "duration": 46.797
     },
     {
       "number": 53,
-      "startTime": 1422940088123,
-      "endTime": 1422940088154,
-      "duration": 0.031
+      "startTime": 1422947553493,
+      "endTime": 1422947559438,
+      "duration": 5.945
     },
     {
       "number": 54,
-      "startTime": 1422940088154,
-      "endTime": 1422940088184,
-      "duration": 0.03
+      "startTime": 1422947559438,
+      "endTime": 1422947570224,
+      "duration": 10.786
     },
     {
       "number": 55,
-      "startTime": 1422940088184,
-      "endTime": 1422940088214,
-      "duration": 0.03
+      "startTime": 1422947570224,
+      "endTime": 1422947586631,
+      "duration": 16.407
     },
     {
       "number": 56,
-      "startTime": 1422940088214,
-      "endTime": 1422940088245,
-      "duration": 0.031
+      "startTime": 1422947586631,
+      "endTime": 1422947604532,
+      "duration": 17.901
     },
     {
       "number": 57,
-      "startTime": 1422940088245,
+      "startTime": 1422947604532,
       "endTime": 1422940088277,
       "duration": 0.032
     },
@@ -532,7 +532,7 @@
   ],
   "totalSlides": 60,
   "runTime": "",
-  "startTime": 1422944192279,
+  "startTime": 1422948104003,
   "duration": 0,
   "endTime": 0
 }
