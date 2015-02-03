@@ -2,7 +2,9 @@
   "name": "buddycopspreso",
   "version": "0.0.1",
   "dependencies": {
-    "posh-starter": "https://github.com/theposhery/posh-starter.git#v0.1"
+    "posh-starter": "https://github.com/theposhery/posh-starter.git#v0.1",
+    "posh-slide": "https://github.com/theposhery/posh-slide.git#master",
+    "posh-preso": "https://github.com/theposhery/posh-preso.git#master"
   },
   "resolutions": {
     "polymer": "^0.5.1",
