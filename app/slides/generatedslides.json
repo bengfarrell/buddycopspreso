@@ -1,5 +1,5 @@
 {
-  "currentSlide": 1,
+  "currentSlide": 59,
   "baseImagePath": "./slides/images",
   "slides": [
     {
@@ -763,6 +763,37 @@
         }
       ],
       "number": 66
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Example: <button onclick='hello()'>Hello World</button>"
+        }
+      ],
+      "htmlinclude": "helloworld.html",
+      "background": "nan.jpg",
+      "number": 78
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Example: <button onclick='move2D()'>move box in 2D</button><button onclick='move3D()'>move box in 3D</button>"
+        }
+      ],
+      "htmlinclude": "randomcoords.html",
+      "number": 79
+    },
+    {
+      "text": [
+        {
+          "region": "header",
+          "html": "Speed Check Example"
+        }
+      ],
+      "htmlinclude": "bigmaths.html",
+      "number": 80
     }
   ]
 }
