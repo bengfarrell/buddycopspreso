@@ -3,6 +3,8 @@ HTML5 Buddy Cops
 
 This is a Polymer + Atom-Shell Presentation powered by Polymer + Atom-Shell
 
+Do normal bower/npm installs, then:
+
 Once finished with that, run:
 
 gulp downloadatomshell
