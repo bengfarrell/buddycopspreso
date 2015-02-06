@@ -2,14 +2,15 @@
   "name": "buddycopspreso",
   "version": "0.0.1",
   "dependencies": {
+    "nan": "",
     "posh": "git+https://github.com/bengfarrell/posh.git#master",
-    "genericnodeaddon": "git+https://github.com/bengfarrell/genericnodeaddon.git#master",
     "finalhandler": "^0.2.0",
     "serve-index": "^1.2.1",
     "serve-static": "^1.6.1"
   },
   "devDependencies": {
     "gulp": "^3.8.10",
-    "nan": ""
+    "grunt-shell": "~1.1.1",
+    "gulp-download-atom-shell": "0.0.4"
   }
 }

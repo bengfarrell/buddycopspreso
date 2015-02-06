@@ -1,5 +1,5 @@
 {
-  "currentSlide": 20,
+  "currentSlide": 0,
   "baseImagePath": "./slides/images",
   "slides": [
     {
@@ -276,7 +276,7 @@
         },
         {
           "region": "footer",
-          "html": "One's a new way of web development based components"
+          "html": "One's a new way of web development based on components"
         }
       ],
       "background": "polymer-splash.png",
@@ -535,15 +535,6 @@
     {
       "text": [
         {
-          "region": "center",
-          "html": "Atom-Shell enables desktop application power with HTML5 tools and techniques"
-        }
-      ],
-      "number": 49
-    },
-    {
-      "text": [
-        {
           "region": "header",
           "html": "Atom-Shell"
         },
@@ -589,7 +580,7 @@
         },
         {
           "region": "footer",
-          "html": "With desktop applications, you expect more cohesiveness on a large scale"
+          "html": "With large desktop applications, you expect more modularity for dev ease"
         }
       ],
       "background": "photoshop.jpg",
@@ -753,41 +744,10 @@
         },
         {
           "region": "center",
-          "html": "<ul><li>benfarrell.com</li><li>@bfarrellforever</li><li>http://github.com/bengfarrell</li></ul>"
+          "html": "<ul><li>benfarrell.com</li><li>@bfarrellforever</li><li>http://github.com/bengfarrell/buddycopspreso</li></ul>"
         }
       ],
       "number": 66
-    },
-    {
-      "text": [
-        {
-          "region": "header",
-          "html": "Example: <button onclick='hello()'>Hello World</button>"
-        }
-      ],
-      "htmlinclude": "helloworld.html",
-      "background": "nan.jpg",
-      "number": 78
-    },
-    {
-      "text": [
-        {
-          "region": "header",
-          "html": "Example: <button onclick='move2D()'>move box in 2D</button><button onclick='move3D()'>move box in 3D</button>"
-        }
-      ],
-      "htmlinclude": "randomcoords.html",
-      "number": 79
-    },
-    {
-      "text": [
-        {
-          "region": "header",
-          "html": "Speed Check Example"
-        }
-      ],
-      "htmlinclude": "bigmaths.html",
-      "number": 80
     }
   ]
 }

@@ -9,7 +9,6 @@
         { "name": "polymer", "file": "decks/5_polymer.json" },
         { "name": "atom features", "file": "decks/6_atomshell.json" },
         { "name": "working together", "file": "decks/7_together.json" },
-        { "name": "outtro", "file": "decks/8_outtro.json" },
-        { "name": "panic", "file": "decks/9_panicdeck.json" }
+        { "name": "outtro", "file": "decks/8_outtro.json" }
     ]
 }

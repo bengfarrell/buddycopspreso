@@ -1,4 +1,4 @@
-var posh = require('posh');
+var posh = require('poshery');
 var path = require('path');
 var app = new posh.app();
 
